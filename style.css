@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(219, 246, 220);
+  width: 99%;
+}
+
+h1 {
+  font-size: 400%;
+  color: rgb(1, 79, 1);
+  margin-bottom: 0px;
+}
+
+h2{
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+canvas {
+  margin-top: 50px;
+  border: 1px solid;
+  border-radius: 5px;
+  width: 20%;
+  height: auto;
+}
